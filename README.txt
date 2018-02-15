@@ -5,6 +5,9 @@ data: 13/10/2014
 # No Servidor
 #=======================================================================#
 
+## Uma atualização desse projeto pode ser encontrada em: https://github.com/Renato2012/NuvemOportunistica2.0
+
+
 Instale as dependencias com o script abaixo.
 sudo ./dependencias.sh
 
